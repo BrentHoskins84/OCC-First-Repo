@@ -47,6 +47,14 @@
 -   Compre the base of this repo, and the head of your repo. You will see the change you make in your forked repo
 -   Finally, click Add pull request and wait your PR (pull request) to be merged by author of this repo. 🎉 🎉
 
-### I got a merge conflict 😥
+## How to resolve merge conflicts 😥
 
-Just delete your forked repo (Settings -> Delete this repository), then re-fork this repo again 😁
+---
+
+You can do the following steps to sync your fork with the upstream repository
+- `git remote add upstream https://github.com/BrentHoskins84/OCC-First-Repo.git`
+- `git fetch upstream`
+- `git checkout master`
+- `git rebase upstream/master`
+
+Happy Coding 😁
