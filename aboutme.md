@@ -1,3 +1,16 @@
+## Meu nome
+Luana
+### Biog
+Sou estudante de tecnologia da informação, e estou no 4º período.
+
+### Why you are interested in Programming
+The super cool projects that you have built.
+
+### Hobbies & Interests
+Read, play.
+### Profiles
+[![GitHub][github-img]](Link to GitHub profile)
+=======
 ## Amey
 
 ### Bio
@@ -11,6 +24,3 @@ I like to read a LOT
 Listening Music
 Watching tv series
 These stuff takes up all the ME time I have
-
-### Profiles
-[![Idi0syncratic][https://avatars.githubusercontent.com/Idi0syncratic]](https://github.com/Idi0syncartic)
