@@ -20,7 +20,8 @@
 ---
 
 -   Add a "Hello, World!" program in any language you like.
--   create aboutme.md file and tell us about yourself.
+-   create aboutme-<yourname>.md file and tell us about yourself.
+
     ```
     ## Your Name
 
