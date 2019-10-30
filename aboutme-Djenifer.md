@@ -13,5 +13,5 @@ It is exciting to see what a computer can do.
 * Japanese Language and Culture
 
 ### Profiles
-[![djeni98][]](https://github.com/djeni98)
+[djeni98](https://github.com/djeni98)
 
